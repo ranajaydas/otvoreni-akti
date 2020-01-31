@@ -1,8 +1,9 @@
+dateparser
+django
+django-elasticsearch-dsl
 requests
 beautifulsoup4
-peewee
 psycopg2-binary
-flask
 honcho
 python-dotenv
 ipython
